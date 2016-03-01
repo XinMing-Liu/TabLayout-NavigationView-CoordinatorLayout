@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android_studio_workspace\\Android6.0\\TabLayout&NavigationView&CoordinatorLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\layout_snackbar.xml",
+        "source": "D:\\android_studio_workspace\\Android6.0\\TabLayout&NavigationView&CoordinatorLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout-sw600dp\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\77\\day02\\TabLayout&NavigationView&CoordinatorLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\layout_snackbar.xml",
+        "source": "E:\\77\\day02\\TabLayout&NavigationView&CoordinatorLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout-sw600dp\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\PrepareLesson\\Code\\Android6.0\\TabLayout&NavigationView&CoordinatorLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\layout_snackbar.xml",
+        "source": "E:\\PrepareLesson\\Code\\Android6.0\\TabLayout&NavigationView&CoordinatorLayout\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout-sw600dp\\layout_snackbar.xml"
+    }
+]
